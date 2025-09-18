@@ -1,4 +1,4 @@
-# LoRa-Power-Consumption-Simulator
+# LoRa_Power_Consumption_Simulator
 A Semtech SX1276 LoRa Module model to simulate its power-consumption behavior
 
 SEMTECH SX1267 LoRa Power Model Usage:  `power_model_script.py [options] [value] `
