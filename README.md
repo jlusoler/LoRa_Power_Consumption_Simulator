@@ -1,7 +1,7 @@
 # LoRa_Power_Consumption_Simulator
 A Semtech SX1276 LoRa Module model to simulate its power-consumption behavior
 
-SEMTECH SX1267 LoRa Power Model Usage:  `power_model_script.py [options] [value] `
+SEMTECH SX1276 LoRa Power Model Usage:  `power_model_script.py [options] [value] `
 
 > Options: 
 >
@@ -56,8 +56,10 @@ FOXES is a project funded  by the European Union’s Horizon 2020 Research and I
 
 
 
-Universitat de Barcelona   -   Developed by Enric Puigvert Coromina 
+Universitat de Barcelona
 
 https://www.foxes-project.eu/ 
+
+Paper "LoRa Power Model for Energy Optimization in Custom IoT Applications" published in XXX with DOI: 
 
 ------------------------------------------------------------------------------------------------------
